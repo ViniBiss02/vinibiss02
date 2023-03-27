@@ -24,9 +24,8 @@ Confira minha Vitrine Dev clicando na imagem abaixo:
 ### Ferramentas e Tecnologias
 <p align="center">
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="40" height="40"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"></code>
 </br>
