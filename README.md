@@ -2,7 +2,7 @@
 
 ## Olá , por favor, seja bem vindo(a) ao meu perfil GitHub!!!
 
-- 💼 atual mente em busca de trabalho em back-end
+- 💼 Trabalhando Informatech Inteligência em TI
 - 📖 Estudando Ciência da Computação
 - 🏫 faculdade Unisociesc 
 
